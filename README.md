@@ -1,1 +1,1 @@
-# Hello, I'm Erdit (AzuLX) 👋
+# Hello, I'm Erdit 👋
