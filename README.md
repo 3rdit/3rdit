@@ -1,3 +1,3 @@
-# Hello, I'm Erdit 👋
+# Hi
 
-I love C/C++, Python and Rust. I'm also okay with Svelte.
+Making and breaking stuff since 2016! 
